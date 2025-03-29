@@ -9,7 +9,9 @@ List of tagalog profanities come from PP-Namias' gist.
 
 stepthon's repository:
 https://github.com/stepthom/lexicon-sentiment-analysis
+
 andrianllmm's repository:
 https://github.com/andrianllmm/tagalog-stemmer
+
 PP-Namisa' gist:
 https://gist.github.com/PP-Namias/2084e956671dc4b710939cacfc0976a7
