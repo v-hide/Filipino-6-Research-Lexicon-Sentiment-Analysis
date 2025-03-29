@@ -1,5 +1,7 @@
 # Filipino-6-Research-Lexicon-Sentiment-Analysis
-Code used in our Filipino 6 Research paper for our study entitled "EBOLUSYON NG SENTIMYENTO TUNGKOL SA MINDANAO: PAGSUSURI SA MGA PAGBABAGO NG SENTIMYENTO NG PUBLIKO MULA SA X HINGGIL SA MINDANAO"
+Code used in our Filipino 6 Research paper for our study entitled "EBOLUSYON NG SENTIMYENTO TUNGKOL SA MINDANAO: PAGSUSURI SA MGA PAGBABAGO NG SENTIMYENTO NG PUBLIKO MULA SA X HINGGIL SA MINDANAO" by Sabina Buca, Franz Achilles Lindayag, Jules Clarence Lumantas, Elysha Fransisca Somera and Veronica Paige Tagoon. 
+
+Code written by Veronica Paige Tagoon
 
 Code is modified from stepthom's own code on lexicon and sentiment analysis and andrianllmm's Tagalog stemmer was used in the code.
 
